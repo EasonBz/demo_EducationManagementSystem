@@ -1,4 +1,6 @@
 
+首先把当前目录下的压缩文件全部解压（也就俩，sms和target
+
 ## 后端  
     1. IDEA 打开项目，自动下载依赖；  
     2. IDEA 打开 File -> Setting -> Build, Execution, Deployment -> Build Tools -> Maven;  
